@@ -1,4 +1,4 @@
-<h1 >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm <a href='https://surajprakash-portfolio.onrender.com/' target='_blank'>Suraj Prakash</a> 👨🏻‍💻 &nbsp;</h1>
+<h1 >Hi all, I'm <a href='https://surajprakash-portfolio.onrender.com/' target='_blank'>Suraj Prakash</a> 👨🏻‍💻 &nbsp;</h1>
 
 I'm a Full Stack Web Developer with expertise in the MERN tech stack and intrested in expanding my knowledge in fields of Machine Learning, AI and Blockchain Technologies. I mainly code in C++ & Java. I'm open to collaborate on projects as the Collaboration and creativity drive my passion for creating impactful solutions, and I'm always excited to contribute to meaningful projects in the software development world. 🚀
 
