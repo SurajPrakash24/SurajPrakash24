@@ -71,6 +71,8 @@ I'm a Full Stack Web Developer with expertise in the MERN tech stack and intrest
 
 <hr/>
 
+[![@surajprakash24's Holopin badges](https://holopin.me/surajprakash24)](https://holopin.io/@surajprakash24)
+
 ❤️ Thanks for Visiting my Github Account
 <br>
 ⬇️ Visit my repositories from here
